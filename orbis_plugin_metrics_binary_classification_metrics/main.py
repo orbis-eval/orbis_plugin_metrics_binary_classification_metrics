@@ -1,7 +1,10 @@
-class BinaryClassificationMetrics(object):
+# -*- coding: utf-8 -*-
+
+
+class Main(object):
 
     def __init__(self):
-        super(BinaryClassificationMetrics, self).__init__()
+        super(Main, self).__init__()
 
     @classmethod
     def get_precision(cls, true_positive, false_positive):
