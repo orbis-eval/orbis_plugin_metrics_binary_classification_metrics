@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 __name__ = "orbis_plugin_metrics_binary_classification_metrics"
-__version__ = "2.2.1"
+__version__ = "2.2.4"
 __author__ = "fabod"
 __year__ = "2019"
 __description__ = "The binary_classification_metrics metrics plugin for Orbis"
